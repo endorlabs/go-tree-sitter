@@ -1,4 +1,4 @@
-#include "../alloc.h"
+#include "alloc.h"
 #include "parser.h"
 
 #include <assert.h>
